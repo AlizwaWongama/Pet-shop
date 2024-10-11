@@ -1,0 +1,12 @@
+C:\Users\L2G4\AppData\Local\Temporary Projects\Wongz PetShop\bin\Release\Wongz PetShop.exe
+C:\Users\L2G4\AppData\Local\Temporary Projects\Wongz PetShop\bin\Release\Wongz PetShop.pdb
+C:\Users\L2G4\AppData\Local\Temporary Projects\Wongz PetShop\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L2G4\AppData\Local\Temporary Projects\Wongz PetShop\obj\Release\Wongz_PetShop.Form1.resources
+C:\Users\L2G4\AppData\Local\Temporary Projects\Wongz PetShop\obj\Release\Wongz_PetShop.MENU.resources
+C:\Users\L2G4\AppData\Local\Temporary Projects\Wongz PetShop\obj\Release\Wongz_PetShop.Properties.Resources.resources
+C:\Users\L2G4\AppData\Local\Temporary Projects\Wongz PetShop\obj\Release\Wongz_PetShop.REGISTRATION.resources
+C:\Users\L2G4\AppData\Local\Temporary Projects\Wongz PetShop\obj\Release\Wongz PetShop.csproj.GenerateResource.Cache
+C:\Users\L2G4\AppData\Local\Temporary Projects\Wongz PetShop\obj\Release\Wongz PetShop.exe
+C:\Users\L2G4\AppData\Local\Temporary Projects\Wongz PetShop\obj\Release\Wongz PetShop.pdb
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\Wongz PetShop\Wongz PetShop\obj\Release\Wongz PetShop.exe
+C:\Users\L2G4\Documents\Visual Studio 2008\Projects\Wongz PetShop\Wongz PetShop\obj\Release\Wongz PetShop.pdb
